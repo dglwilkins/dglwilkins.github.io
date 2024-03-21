@@ -6,11 +6,11 @@ subtitle: A puzzle game with a unique concept
 
 <div id="slider">
 <figure>
-<img src="../images//hexa/screenshot1.jpg" alt>
-<img src="../images/hexa/screenshot2.jpg" alt>
-<img src="../images/hexa/screenshot3.jpg" alt>
-<img src="../images/hexa/screenshot4.jpg" alt>
-<img src="../images/hexa/screenshot5.jpg" alt>
+<img src="/images//hexa/screenshot1.jpg" alt>
+<img src="/images/hexa/screenshot2.jpg" alt>
+<img src="/images/hexa/screenshot3.jpg" alt>
+<img src="/images/hexa/screenshot4.jpg" alt>
+<img src="/images/hexa/screenshot5.jpg" alt>
 </figure>
 </div>
 
