@@ -37,6 +37,7 @@ post_search: true
 
 site-css:
   - "/css/imageslider.css"
+  - "/css/custom.css"
 
 social-network-links:
   email: "support@salusgames.com"
