@@ -40,7 +40,6 @@ site-css:
 
 social-network-links:
   email: "support@salusgames.com"
-  rss: true
   github: salusgames
   twitter: salusgames
   steam: Manually edited in _includes/social-networks-links.html
