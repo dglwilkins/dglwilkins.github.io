@@ -42,4 +42,5 @@ social-network-links:
   email: "support@salusgames.com"
   github: salusgames
   twitter: salusgames
-  steam: Manually edited in _includes/social-networks-links.html
+
+permalink: /:year-:month-:day-:title/
