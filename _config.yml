@@ -1,1 +1,24 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
+
+# Colours
+navbar-col: "#262a2e"
+navbar-text-col: "#e4e6eb"
+navbar-border-col: "#ffffff"
+page-col: "#343a40"
+text-col: "#e4e6eb"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#262a2e"
+footer-text-col: "#e4e6eb"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+# Analytics
+gtag: "G-RYF46YSCLL"
+
+# Nav Menu
+navbar-links:
+  Games:
+    - Layers: "layers"
+    - Hexa: "hexa"
+  About: "about"
