@@ -33,5 +33,14 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/images/salus-games-logo.png"
 
-#site-css:
-#  - "/css/imageslider.css"
+post_search: true
+
+site-css:
+  - "/css/imageslider.css"
+
+social-network-links:
+  email: "support@salusgames.com"
+  rss: true
+  github: salusgames
+  twitter: salusgames
+  steam: Manually edited in _includes/social-networks-links.html
