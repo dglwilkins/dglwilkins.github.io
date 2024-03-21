@@ -22,7 +22,7 @@ That's all you need to integrate Steamworks into your project. Just make sure th
 Adding achievements is really simple.
 
 1. Create the achievement in the [Steamworks web portal](https://partner.steamgames.com/)
-   ![Image](../assets/img/newsteamworksachievment.png "Image").
+   ![Image](../images/newsteamworksachievment.png "Image").
 
    The "ACHIEVEMENT UNIQUE ID" is the ID of the achievement that we want to unlock so I tend to call it something that relates to the actual achievement.
 

@@ -8,11 +8,11 @@ comments: true
 
 This short guide will show you how to make the circle animation below. It's actually quite simple.
 
-![alt text](../assets/img/circle-loading-animation.gif "Terminal Example")
+![alt text](../images/circle-loading-animation.gif "Example")
 
 First you will need to create an image to use for your animation. If you're to lazy you can just use the one I made.  Save it into the Assets folder of your Unity project.
 
-[Download Image](../assets/img/loadingCircle.png "Download Image")
+[Download Image](../images/loadingCircle.png "Download Image")
 
 We are going to make the background image first. Create a new UI Image object (Gameobject > UI > Image) call it "Loading Circle". On the Image Component set the Source Image the one you created or downloaded and give it a colour you fancy.
 
