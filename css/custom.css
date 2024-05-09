@@ -9,3 +9,7 @@
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
+
+.language-cs highlighter-rouge {
+  background-color: #dddddd;
+}
