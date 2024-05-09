@@ -10,6 +10,6 @@
   color: {{ site.text-col | default: "#404040" }};
 }
 
-.language-cs highlighter-rouge {
-  background-color: #dddddd;
+.language-cs {
+  background-color: #dedede;
 }
